@@ -1,0 +1,2 @@
+# automationpractice.com
+Technical Assessment
